@@ -1,2 +1,2 @@
-# substrate-templ
-GO Templ components for Substrate
+# neutron-templ
+GO Templ components for Neutron
